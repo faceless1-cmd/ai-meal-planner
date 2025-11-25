@@ -1,0 +1,29 @@
+# Next.js
+.next/
+out/
+
+# Node.js
+node_modules/
+*.env
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+
+# npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.npm/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Editor/OS specific
+*.log
+*.swp
+.DS_Store
